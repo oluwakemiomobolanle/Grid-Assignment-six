@@ -352,7 +352,7 @@ body {
 }
 
 
-@media screen and (max-width: 800px) {
+/* @media screen and (max-width: 800px) {
   .grid-wrapper {
   height: 50vh;
   width: 95%;
@@ -363,7 +363,7 @@ body {
   grid-template-rows:1fr repeat(5, 2fr) 1fr;
 }
 
-}
+} */
 
 
 @media screen and (max-width: 400px) {
